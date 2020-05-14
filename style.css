@@ -1,0 +1,16 @@
+#container {
+	width: 500px;
+	height: 425px;
+	border: 1px solid #ccc;
+	margin: auto;
+	padding: 15px 10px;
+}
+
+#initial {
+	text-align: center;
+}
+
+#initial img {
+	border: 1px solid #000;
+	margin: 0 1px;
+}
