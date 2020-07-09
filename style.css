@@ -1,9 +1,9 @@
 #container {
 	width: 500px;
-	height: 450px;
+	height: 470px;
 	border: 1px solid #ccc;
 	margin: auto;
-	padding: 15px 10px;
+	padding: 10px;
 }
 
 #initial {
@@ -11,7 +11,7 @@
 }
 
 h1 {
-	font-size: 16px;
+	font-size: 20px;
 	line-height:20px;
 }
 
